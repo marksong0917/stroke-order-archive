@@ -50,5 +50,8 @@ python3 tools/gen-audio.py    # 用 Piper 生成缺失的字音（需要 tools/v
 
 ## License
 
-MIT © Ze (Mark) Song — 代码部分；笔顺数据遵循其原许可证（见上）。
-MIT © Ze (Mark) Song for the code; stroke data under its original license (above).
+This project was previously released under the MIT License. It is now source-available under the PolyForm Noncommercial License 1.0.0 — free for personal and noncommercial use; commercial use requires a separate license from the author. See [LICENSE](LICENSE).
+
+For a commercial license, contact Ze (Mark) Song via https://github.com/marksong0917.
+
+笔顺数据遵循其原许可证（见上）。Stroke data remains under its original license (above).
